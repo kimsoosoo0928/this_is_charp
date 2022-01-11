@@ -1,0 +1,15 @@
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\bin\Debug\net5.0\ch_03_02_비타민퀴즈.exe
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\bin\Debug\net5.0\ch_03_02_비타민퀴즈.deps.json
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\bin\Debug\net5.0\ch_03_02_비타민퀴즈.runtimeconfig.json
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\bin\Debug\net5.0\ch_03_02_비타민퀴즈.runtimeconfig.dev.json
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\bin\Debug\net5.0\ch_03_02_비타민퀴즈.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\bin\Debug\net5.0\ref\ch_03_02_비타민퀴즈.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\bin\Debug\net5.0\ch_03_02_비타민퀴즈.pdb
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\obj\Debug\net5.0\ch_03_02_비타민퀴즈.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\obj\Debug\net5.0\ch_03_02_비타민퀴즈.AssemblyInfoInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\obj\Debug\net5.0\ch_03_02_비타민퀴즈.AssemblyInfo.cs
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\obj\Debug\net5.0\ch_03_02_비타민퀴즈.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\obj\Debug\net5.0\ch_03_02_비타민퀴즈.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\obj\Debug\net5.0\ref\ch_03_02_비타민퀴즈.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\obj\Debug\net5.0\ch_03_02_비타민퀴즈.pdb
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_03_02_비타민퀴즈\obj\Debug\net5.0\ch_03_02_비타민퀴즈.genruntimeconfig.cache
