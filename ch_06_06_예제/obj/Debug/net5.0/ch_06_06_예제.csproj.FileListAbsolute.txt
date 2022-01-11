@@ -1,0 +1,16 @@
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\bin\Debug\net5.0\ch_06_06_예제.exe
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\bin\Debug\net5.0\ch_06_06_예제.deps.json
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\bin\Debug\net5.0\ch_06_06_예제.runtimeconfig.json
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\bin\Debug\net5.0\ch_06_06_예제.runtimeconfig.dev.json
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\bin\Debug\net5.0\ch_06_06_예제.dll
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\bin\Debug\net5.0\ref\ch_06_06_예제.dll
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\bin\Debug\net5.0\ch_06_06_예제.pdb
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\obj\Debug\net5.0\ch_06_06_예제.csproj.AssemblyReference.cache
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\obj\Debug\net5.0\ch_06_06_예제.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\obj\Debug\net5.0\ch_06_06_예제.AssemblyInfoInputs.cache
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\obj\Debug\net5.0\ch_06_06_예제.AssemblyInfo.cs
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\obj\Debug\net5.0\ch_06_06_예제.csproj.CoreCompileInputs.cache
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\obj\Debug\net5.0\ch_06_06_예제.dll
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\obj\Debug\net5.0\ref\ch_06_06_예제.dll
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\obj\Debug\net5.0\ch_06_06_예제.pdb
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_06_예제\obj\Debug\net5.0\ch_06_06_예제.genruntimeconfig.cache

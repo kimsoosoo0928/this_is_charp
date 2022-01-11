@@ -1,0 +1,16 @@
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\bin\Debug\net5.0\ch_06_05_예제_어려움.exe
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\bin\Debug\net5.0\ch_06_05_예제_어려움.deps.json
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\bin\Debug\net5.0\ch_06_05_예제_어려움.runtimeconfig.json
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\bin\Debug\net5.0\ch_06_05_예제_어려움.runtimeconfig.dev.json
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\bin\Debug\net5.0\ch_06_05_예제_어려움.dll
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\bin\Debug\net5.0\ref\ch_06_05_예제_어려움.dll
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\bin\Debug\net5.0\ch_06_05_예제_어려움.pdb
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\obj\Debug\net5.0\ch_06_05_예제_어려움.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\obj\Debug\net5.0\ch_06_05_예제_어려움.AssemblyInfoInputs.cache
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\obj\Debug\net5.0\ch_06_05_예제_어려움.AssemblyInfo.cs
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\obj\Debug\net5.0\ch_06_05_예제_어려움.csproj.CoreCompileInputs.cache
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\obj\Debug\net5.0\ch_06_05_예제_어려움.dll
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\obj\Debug\net5.0\ref\ch_06_05_예제_어려움.dll
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\obj\Debug\net5.0\ch_06_05_예제_어려움.pdb
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\obj\Debug\net5.0\ch_06_05_예제_어려움.genruntimeconfig.cache
+C:\Users\kimhs\Desktop\workspace\this_is_charp\ch_06_05\obj\Debug\net5.0\ch_06_05_예제_어려움.csproj.AssemblyReference.cache
