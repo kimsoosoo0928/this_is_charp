@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ch_07_05_예제_어려움/1.0.0": {
+        "runtime": {
+          "ch_07_05_예제_어려움.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ch_07_05_예제_어려움/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

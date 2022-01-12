@@ -1,0 +1,15 @@
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\bin\Debug\net5.0\ch_06_연습문제_02.exe
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\bin\Debug\net5.0\ch_06_연습문제_02.deps.json
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\bin\Debug\net5.0\ch_06_연습문제_02.runtimeconfig.json
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\bin\Debug\net5.0\ch_06_연습문제_02.runtimeconfig.dev.json
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\bin\Debug\net5.0\ch_06_연습문제_02.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\bin\Debug\net5.0\ref\ch_06_연습문제_02.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\bin\Debug\net5.0\ch_06_연습문제_02.pdb
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\obj\Debug\net5.0\ch_06_연습문제_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\obj\Debug\net5.0\ch_06_연습문제_02.AssemblyInfoInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\obj\Debug\net5.0\ch_06_연습문제_02.AssemblyInfo.cs
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\obj\Debug\net5.0\ch_06_연습문제_02.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\obj\Debug\net5.0\ch_06_연습문제_02.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\obj\Debug\net5.0\ref\ch_06_연습문제_02.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\obj\Debug\net5.0\ch_06_연습문제_02.pdb
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_06_연습문제_02\obj\Debug\net5.0\ch_06_연습문제_02.genruntimeconfig.cache
