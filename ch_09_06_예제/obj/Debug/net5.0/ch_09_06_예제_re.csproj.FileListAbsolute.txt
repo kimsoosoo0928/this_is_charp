@@ -1,0 +1,15 @@
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\bin\Debug\net5.0\ch_09_06_예제_re.exe
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\bin\Debug\net5.0\ch_09_06_예제_re.deps.json
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\bin\Debug\net5.0\ch_09_06_예제_re.runtimeconfig.json
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\bin\Debug\net5.0\ch_09_06_예제_re.runtimeconfig.dev.json
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\bin\Debug\net5.0\ch_09_06_예제_re.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\bin\Debug\net5.0\ref\ch_09_06_예제_re.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\bin\Debug\net5.0\ch_09_06_예제_re.pdb
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\obj\Debug\net5.0\ch_09_06_예제_re.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\obj\Debug\net5.0\ch_09_06_예제_re.AssemblyInfoInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\obj\Debug\net5.0\ch_09_06_예제_re.AssemblyInfo.cs
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\obj\Debug\net5.0\ch_09_06_예제_re.csproj.CoreCompileInputs.cache
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\obj\Debug\net5.0\ch_09_06_예제_re.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\obj\Debug\net5.0\ref\ch_09_06_예제_re.dll
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\obj\Debug\net5.0\ch_09_06_예제_re.pdb
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_06_예제\obj\Debug\net5.0\ch_09_06_예제_re.genruntimeconfig.cache

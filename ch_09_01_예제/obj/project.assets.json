@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\this_is_c#\\ch_09_01_예제\\ch_09_01_예제.csproj",
-      "projectName": "ch_09_01_예제",
-      "projectPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\this_is_c#\\ch_09_01_예제\\ch_09_01_예제.csproj",
+      "projectUniqueName": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\this_is_c#\\ch_09_01_예제\\ch_09_01_예제_Re.csproj",
+      "projectName": "ch_09_01_예제_Re",
+      "projectPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\this_is_c#\\ch_09_01_예제\\ch_09_01_예제_Re.csproj",
       "packagesPath": "C:\\Users\\kimso\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kimso\\Desktop\\workspace\\homework\\this_is_c#\\ch_09_01_예제\\obj\\",
       "projectStyle": "PackageReference",
