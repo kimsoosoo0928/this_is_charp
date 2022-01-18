@@ -245,7 +245,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch_09_09_예제_Re", "..\ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch_09_10_예제", "..\ch_09_10_예제\ch_09_10_예제.csproj", "{9C5DC818-D9B6-4F1B-A4BF-BE97EE8141E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch_09_11_예제", "..\ch_09_11_예제\ch_09_11_예제.csproj", "{3BE24181-870E-4F16-BD36-5961E5184D56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch_09_11_예제_re", "..\ch_09_11_예제\ch_09_11_예제_re.csproj", "{3BE24181-870E-4F16-BD36-5961E5184D56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
