@@ -13,3 +13,4 @@ C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_10_예제\obj\Debug\n
 C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_10_예제\obj\Debug\net5.0\ref\ch_09_10_예제.dll
 C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_10_예제\obj\Debug\net5.0\ch_09_10_예제.pdb
 C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_10_예제\obj\Debug\net5.0\ch_09_10_예제.genruntimeconfig.cache
+C:\Users\kimso\Desktop\workspace\homework\this_is_c#\ch_09_10_예제\obj\Debug\net5.0\ch_09_10_예제.csproj.AssemblyReference.cache
